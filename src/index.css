@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav a {
+    margin: 0 1em;
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+  }
+  
+  section {
+    padding: 2em;
+  }
+  
+  .project img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form label {
+    margin-bottom: 1em;
+  }
+  
+  form input, form textarea {
+    padding: 0.5em;
+    margin-top: 0.5em;
+  }
+  
+  form span {
+    color: red;
+    font-size: 0.8em;
+  }
+  
+  button {
+    padding: 0.5em;
+  }
+  
