@@ -2,7 +2,6 @@
 import { Outlet } from 'react-router-dom';
 import Header from './components/header';
 import Footer from './components/footer';
-import "./App.css"
 
 
 const App = () => {
@@ -11,8 +10,7 @@ const App = () => {
       <div className="App">
         <Header />
         <main>
-          <Outlet>
-          </Outlet>
+          <Outlet />
         </main>
         <Footer />
       </div>
