@@ -4,6 +4,8 @@ const Portfolio = () => {
   const projects = [
     { title: 'Marvel Movie Ratings', link: 'https://shanbeezy.github.io/marvel-movie-ratings/', repo: 'https://github.com/Shanbeezy/marvel-movie-ratings' },
     { title: 'Sounds of the KK', link: 'https://carlospetsdogs.github.io/Sounds-of-the-KK/', repo: 'https://github.com/Carlospetsdogs/Sounds-of-the-KK' },
+    { title: 'Coding Quiz', link: 'https://carlospetsdogs.github.io/Fourth-Homework-Quiz/index.html', repo: 'https://github.com/Carlospetsdogs/Fourth-Homework-Quiz' },
+
     // Add more projects here
   ];
 
