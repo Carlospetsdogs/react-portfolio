@@ -5,7 +5,8 @@ This application is a showcasing of some react proficiencies that also doubles a
 https://github.com/Carlospetsdogs/react-portfolio
 
 ## Deployed Application link:
-
+https://famous-cuchufli-695b22.netlify.app/
 
 ## Deployed application screenshot:
+![Screenshot](./src/assets/Site-screenshot.png)
 
