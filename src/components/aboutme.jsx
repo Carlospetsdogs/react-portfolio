@@ -9,7 +9,7 @@ const AboutMe = () => {
       <img src = {
         ProfilePic
       } alt="Developer" />
-      <p>I am a very ametuerish developer with a lot of ambition and creativity.</p>
+      <p>Thanks for checking out my portolio if you can't tell, I am a very ametuerish developer with a lot of ambition and creativity. Feel free to puruse the site and get in touch! Thanks</p>
     </section>
   );
 };
